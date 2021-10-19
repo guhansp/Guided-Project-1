@@ -1,3 +1,3 @@
 # Guided-Project-1
 
-<p> Hosted at https://guhansp.github.io/Guided-Project-1/ </p>
+<p> Hosted at https://guhansp.github.io/Super-Over/ </p>
